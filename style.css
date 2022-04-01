@@ -1,0 +1,10 @@
+body {
+    background-image: url(/assets/Background.svg);
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    max-width: calc(600px - 20vh);
+    height: auto;
+}
